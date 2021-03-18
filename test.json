@@ -1,0 +1,82 @@
+[
+    {
+        "pytanie":"Ktory z tych algorytmow jest stabilny?",
+        "a":"Merge sort",
+        "b":"Quicksort",
+        "c":"Heap sort",
+        "d":"Selection sort",
+        "poprawna_odpowiedz":"a"
+    },
+    {
+        "pytanie":"Ktore z tych urzadzen jest urzadzeniem wyjciowym?",
+        "a":"klawiatura",
+        "b":"mysz",
+        "c":"drukarka",
+        "d":"mikrofon",
+        "poprawna_odpowiedz":"c"
+    },
+    {
+        "pytanie":"Ktory z tych jezykow jest najstarszy?",
+        "a":"Java",
+        "b":"C++",
+        "c":"Python",
+        "d":"PHP",
+        "poprawna_odpowiedz":"b"
+    },
+    {
+        "pytanie":"Ktory z tych jezykow, nie nadaje sie do programowania obiektowego?",
+        "a":"C",
+        "b":"C++",
+        "c":"Python",
+        "d":"Java",
+        "poprawna_odpowiedz":"a"
+    },
+    {
+        "pytanie":"Ktory z tych systemow, jest systemem mobilnym?",
+        "a":"macOS",
+        "b":"Windows 7",
+        "c":"Symbian",
+        "d":"Ubuntu",
+        "poprawna_odpowiedz":"c"
+    },
+    {
+        "pytanie":"Jak deklaruje sie zmienne w C++?",
+        "a":"x = int;",
+        "b":"int x;",
+        "c":"x:int;",
+        "d":"int-x;",
+        "poprawna_odpowiedz":"b"
+    },
+    {
+        "pytanie":"Ktory z tych programow, NIE jest srodowiskiem programowania?",
+        "a":"Visual Studio",
+        "b":"IntelliJ Idea",
+        "c":"PyCharm",
+        "d":"Notepad++",
+        "poprawna_odpowiedz":"d"
+    },
+    {
+        "pytanie":"Ktore z tych rozszerzen dotyczy plikow muzycznych?",
+        "a":".wav",
+        "b":".jpg",
+        "c":".bat",
+        "d":".avi",
+        "poprawna_odpowiedz":"a"
+    },
+    {
+        "pytanie":"Ile bitow ma jeden bajt?",
+        "a":"64",
+        "b":"8",
+        "c":"1024",
+        "d":"2",
+        "poprawna_odpowiedz":"b"
+    },
+    {
+        "pytanie":"Ktory z tych jezykow programowania, nie jest kompilowany?",
+        "a":"JavaScript",
+        "b":"C++",
+        "c":"Pascal",
+        "d":"C",
+        "poprawna_odpowiedz":"a"
+    }
+]
