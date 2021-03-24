@@ -122,7 +122,7 @@ def day_of_the_week(today):
     elif this_month == 4:
         day_of_the_year = this_day + 90
     elif this_month == 5:
-        day_of_the_year = this_day + 12028
+        day_of_the_year = this_day + 120
     elif this_month == 6:
         day_of_the_year = this_day + 151
     elif this_month == 7:
